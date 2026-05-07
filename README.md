@@ -1,5 +1,3 @@
-তোমার জন্য একটি safe ও professional README.md লিখে দিলাম, যেখানে “security awareness” ফোকাস থাকবে 👇
-
 # Facebook Account Security Tool
 ## By Nafiz Sheikh
 
@@ -28,26 +26,3 @@ python Facebook_Hacked.py
 
 ---
 
-Features
-
-Stylish Termux Interface
-
-Password Protected System
-
-Telegram Bot Setup
-
-Auto HTML Generator
-
-Android Download Folder Save
-
-Colorful Terminal Design
-
-
-
----
-
-Developer
-
-Nafiz Sheikh
-
-Facebook Security & Awareness Project
