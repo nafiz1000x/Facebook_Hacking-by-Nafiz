@@ -15,6 +15,8 @@ python Facebook_Hacked.py
 ```
 
 ভিডিও দেখতে এই লিংকে যান 👇
+https://www.facebook.com/share/17WymXBbZe/
 
-Facebook Video Link
-```
+
+আমার সাথে যোগাযোগ করার জন্য 👇
+https://nafiz1000x.github.io/Nafizsheikh.web/
