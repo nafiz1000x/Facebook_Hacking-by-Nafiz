@@ -1,22 +1,43 @@
 
-Facebook Account Security Tool
+#Facebook Account Hacking Tool
 
-By Nafiz Sheikh
 
 ⚠️ This tool is only for learning purposes. Do not use it for illegal activities.
 
-Installation
+ডেভেলপার: Nafiz Sheikh
+টেলিগ্রাম: @Nafizsheikh0x
+চ্যানেল: https://t.me/nafizsheikhtech
+
+---
+
+ইনস্টলেশন ও রান
 
 ```
 git clone https://github.com/nafiz1000x/Facebook_Hacking-by-Nafiz.git
 cd Facebook_Hacking-by-Nafiz
 python Facebook_Hacked.py
-
 ```
 
-ভিডিও দেখতে এই লিংকে যান 👇
-https://www.facebook.com/share/17WymXBbZe/
+---
 
+🔐 পাসওয়ার্ড
 
-আমার সাথে যোগাযোগ করার জন্য 👇
+পাসওয়ার্ড জানতে :
+নিচে  ভিডিও টিউটোরিয়াল এর ভেতর দেওয়া আছে। 
+
+---
+
+যোগাযোগ এর জন্য 
+
 https://nafiz1000x.github.io/Nafizsheikh.web/
+-
+
+---
+
+🎥 ভিডিও টিউটোরিয়াল
+
+ভিডিও দেখতে ভিজিট করুন: (https://www.facebook.com/share/1DC8MjXBqK/)
+
+---
+
+⚠️ সতর্কতা: শুধুমাত্র শিক্ষাগত উদ্দেশ্যে। অপব্যবহারের জন্য দায়ী নয়।
