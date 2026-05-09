@@ -1,5 +1,4 @@
-
-#Facebook Account Hacking Tool
+Facebook Account Hacking Tool
 
 
 ⚠️ This tool is only for learning purposes. Do not use it for illegal activities.
